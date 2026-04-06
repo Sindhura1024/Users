@@ -28,6 +28,7 @@
       "react-app/jest"
     ]
   },
+  "homepage": "https://Sindhura1024.github.io/Users",
   "browserslist": {
     "production": [
       ">0.2%",
@@ -38,7 +39,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ],
-    "homepage": "https://Sindhura1024.github.io/Users"
+    ]
   }
 }
